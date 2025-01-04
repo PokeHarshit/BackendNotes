@@ -1,0 +1,14 @@
+{
+  "name": "ecommercemodel",
+  "version": "1.0.0",
+  "description": "This is and ecommerce app data modelling practice.",
+  "main": "category.model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Karki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
