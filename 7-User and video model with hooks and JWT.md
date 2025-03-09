@@ -1,4 +1,4 @@
-# User and Video Model with Hooks and JWT
+  # User and Video Model with Hooks and JWT
 
 ## Overview
 This document dives deep into the creation of **User** and **Video** models in a **MERN stack** application, leveraging pre-save hooks for enhanced functionality, and utilizing **JWT (JSON Web Tokens)** for secure authentication and session management. It covers every crucial step from schema design to best practices, ensuring a beginner-friendly yet professional approach.
